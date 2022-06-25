@@ -1,3 +1,7 @@
+body {
+  background-color: dimgrey;
+}
+
 .success,
 .error {
   color: white;
@@ -11,4 +15,9 @@
 
 .error {
   background-color: red;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-left: 420px;
 }
